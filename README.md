@@ -1,4 +1,4 @@
-# Problem Solving with Python — Chapter YY: ZZ
+# Problem Solving with Python — Chapter 4: Query a Web Resource
 
 This repository contains the chapter and active-learning exercise code associated with this chapter in the book *Problem Solving with Python: Using Computational Thinking in Everyday Life* by Michael D. Smith (2026), which is available from [MIT Press](https://mitpress.mit.edu/9780262383677/problem-solving-with-python/) and [Amazon](https://www.amazon.com/Problem-Solving-Python-Computational-Thinking/dp/0262552841/).
 
@@ -19,8 +19,8 @@ If you're using GitHub Codespaces, click the green "Code" button on this repo's 
 Otherwise, in your IDE's terminal window, type the following commands:
 
 ```bash
-git clone https://github.com/pswp-book/chapYY.git
-cd chapYY
+git clone https://github.com/pswp-book/chap04.git
+cd chap04
 ```
 
 ## (Optional) Create and activate a virtual environment
@@ -54,4 +54,9 @@ If you find a problem in this chapter’s code (typo, bug, or mismatch with the 
 
 ## Short description of the repo's files
 
-FIXME
+`qweb[1-8].py`: Scripts used to explain network programming.
+
+`mashup32.py`: Script illustrating a simple network mashup script using
+Wolfram|Alpha. It is discussed in ALE 4.4.
+
+`ale05.py`, `ale05_step1.py`: Scripts used in ALE 4.5.
